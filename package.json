@@ -1,0 +1,19 @@
+{
+  "name": "aws-serverless",
+  "version": "1.0.0",
+  "description": "AWS Serverless Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freddielumor/AWS-Serverless.git"
+  },
+  "author": "Freddie Lumor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/freddielumor/AWS-Serverless/issues"
+  },
+  "homepage": "https://github.com/freddielumor/AWS-Serverless#readme"
+}
